@@ -1,0 +1,25 @@
+{
+  "name": "setoperations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaropanthers/setOperations.git"
+  },
+  "author": "Alvaro J. Orozco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaropanthers/setOperations/issues"
+  },
+  "homepage": "https://github.com/alvaropanthers/setOperations#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.3.0",
+    "jest": "^25.3.0"
+  }
+}
